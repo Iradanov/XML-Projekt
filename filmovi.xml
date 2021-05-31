@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "filmovi.xsl"?>
+<filmovi>
+    <film>
+        <naslov>Leon the Professional</naslov>
+        <zanr>Action</zanr>
+        <godina_izlaska>1994</godina_izlaska>
+    </film>
+    <film>
+        <naslov>12 Angry Men</naslov>
+        <zanr>Drama</zanr>
+        <godina_izlaska>1957</godina_izlaska>
+    </film>
+    <film>
+        <naslov>Howl's Moving Castle</naslov>
+        <zanr>Adventure</zanr>
+        <godina_izlaska>2004</godina_izlaska>
+    </film>
+    <film>
+        <naslov>Monty Python's Life of Brian</naslov>
+        <zanr>Comedy</zanr>
+        <godina_izlaska>1979</godina_izlaska>
+    </film>
+    <film>
+        <naslov>Song of the Sea</naslov>
+        <zanr>Animation, Adventure</zanr>
+        <godina_izlaska>2014</godina_izlaska>
+    </film>
+    
+<film><naslov>The Thing</naslov><zanr>Horror</zanr><godina_izlaska>1982</godina_izlaska></film></filmovi>
